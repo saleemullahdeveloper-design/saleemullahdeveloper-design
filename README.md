@@ -1,5 +1,3 @@
-
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saleem%20Ullah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20.NET%20Developer&descAlignY=55&descSize=18" />
@@ -44,10 +42,6 @@ var saleem = new Developer
     OpenTo       = ".NET / Full-Stack Developer Roles",
     Email        = "saleemullahdeveloper@gmail.com"
 };
-````
-
----
-
 ## 🏢 Experience
 
 <table>
